@@ -80,4 +80,4 @@ Links
 
 | Language | Project | Description |
 | ----- | ---- | ----- |
-| TypeScript | [fn-client](https://github.com/kyokan/fn-client) | RPC client for fnd, message format utilities, and [social](https://github.com/kyokan/footnote-PIPs/blob/master/pip-009.rst) records |
+| TypeScript | [fn-client](https://github.com/kyokan/fn-client) | RPC client for fnd, message format utilities, and [social](https://github.com/kyokan/footnote-PIPs/blob/master/pip-008.rst) records |
